@@ -1,0 +1,142 @@
+body {
+  text-align: center;
+  color: #1e836c;
+}
+
+h1,h2,h4{
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+p {
+  font-family: 'Nunito', sans-serif;
+  color: #1D1E26;
+  font-weight: bolder;
+}
+
+
+/* ------------------INTRODUCTION SECTION------------------------------------ */
+#introduction {
+  background-color:  #CCD9D7;
+  padding-top: 2%;
+}
+
+.navbar-brand{
+  padding-right: 20%;
+}
+
+.collapse{
+  padding-right: 20%;
+}
+
+.nav-link{
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding: 5%;
+}
+
+.name{
+  font-family: 'Sacramento', cursive;
+  font-size: 420%;
+  padding-top: 5%;
+}
+
+.developer{
+  font-weight: lighter;
+}
+
+.mountain{
+    width: 70%;
+    height: auto;
+    padding-top: 5%;
+}
+
+
+/* ------------------ABOUT-SECTION------------------------------------------- */
+#about-me{
+  padding-top: 4rem;
+  background-color:  #F5F5F5;
+  padding-top: 3%;
+  padding-bottom: 7%;
+}
+
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 20%;
+  padding-top: 2%;
+}
+
+.info{
+  width:100%;
+  height:auto;
+  padding: 3% 10% 0% 10%;
+}
+
+.info-h{
+  padding-bottom: 2%;
+}
+
+.carouselExampleControls{
+
+}
+/* --------------------WORK SECTION------------------------------------------ */
+#work {
+  background-color: #CCD9D7;
+  padding: 7% 15%;
+}
+
+.work-box {
+  padding:  5% 11%;
+  text-align: center;
+}
+
+.icon{
+  color: #1e836c;
+  padding-bottom: 10%;
+}
+
+
+/* ------------------CONTACT SECTION----------------------------------------- */
+#contact{
+  padding-top: 4%;
+  background-color: #E4F9F5;
+}
+
+.btn{
+  background-color: #1e836c;
+}
+
+.mailto{
+font-family: 'Nunito', sans-serif;
+  color: #F5F0EA;
+}
+
+}
+.mailto:active {
+  text-decoration: none ;
+}
+
+.mailto:hover {
+  text-decoration: none;
+}
+/* ------------------FOOTER SECTION-------------------------------------------*/
+#footer{
+  padding: 4% 15%;
+}
+
+.social{
+  padding: 2%;
+}
+
+.social-link{
+  color:#1e836c;
+}
+
+.copyright{
+  color: #1e836c;
+}
